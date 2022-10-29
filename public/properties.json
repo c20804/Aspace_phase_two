@@ -1,0 +1,233 @@
+[
+    {
+        "title": "Clean Garage",
+        "type": "Garage",
+        "location": "Dallas",
+        "price": "10",
+        "amenities": "A desk, A fan, A toolkit",
+        "description": "A clean garage perfect for man's cave.",
+        "rating": "5.0",
+        "thumbnail": "clean_garage",
+        "id" : 1
+    },
+    {
+        "title": "Huge Garage",
+        "type": "Garage",
+        "location": "Richardson",
+        "price": "15",
+        "amenities": "A desk, A fan, A toolkit",
+        "description": "A clean garage perfect for man's cave.",
+        "rating": "5.0",
+        "thumbnail": "huge_garage",
+        "id" : 2
+    },
+    {
+        "title": "Two-door Garage",
+        "type": "Garage",
+        "location": "Frisco",
+        "price": "13",
+        "amenities": "A desk, A fan, A toolkit",
+        "description": "A clean two-door garage.",
+        "rating": "5.0",
+        "thumbnail": "garage3",
+        "id" : 3
+    },
+    {
+        "title": "Modern Game Room",
+        "type": "Gameroom",
+        "location": "Allen",
+        "price": "20",
+        "amenities": "A switch console, Six joy-cons, 20+ games",
+        "description": "Spacious and modern, a great place to have a fun with friends.",
+        "rating": "4.9",
+        "thumbnail": "game_room2",
+        "id" : 4
+    },
+    {
+        "title": "Game Room",
+        "type": "Gameroom",
+        "location": "Plano",
+        "price": "18",
+        "amenities": "tabble tennis",
+        "description": "Perfect for indoor sports and games",
+        "rating": "5.0",
+        "thumbnail": "game_room1",
+        "id" : 5
+    },
+    {
+        "title": "Yard with Jacuzzi",
+        "type": "Yard",
+        "location": "Dallas",
+        "price": "10",
+        "amenities": "A Jacuzzi, outdoor furnitures",
+        "description": "A clean garage perfect for man's cave.",
+        "rating": "5.0",
+        "thumbnail": "yard3",
+        "id" : 6
+    },
+    {
+        "title": "Spacious Yard",
+        "type": "Yard",
+        "location": "Richardson",
+        "price": "10",
+        "amenities": "Toys, outdoor furnitures",
+        "description": "A huge yard for kids playing!",
+        "rating": "4.9",
+        "thumbnail": "yard2",
+        "id" : 7
+    },
+    {
+        "title": "Yard with swimming pool",
+        "type": "Yard",
+        "location": "Plano",
+        "price": "10",
+        "amenities": "Wonderful outdoor pool",
+        "description": "A yard with a spacious pool.",
+        "rating": "4.9",
+        "thumbnail": "yard4",
+        "id" : 8
+    },
+    {
+        "title": "Campfire Yard",
+        "type": "Yard",
+        "location": "Richardson",
+        "price": "10",
+        "amenities": "Toys, outdoor furnitures, a camp fire",
+        "description": "A huge yard with camp fire.",
+        "rating": "4.9",
+        "thumbnail": "yard1",
+        "id" : 9
+    },
+    {
+        "title": "Wine Cellar",
+        "type": "Winecellar",
+        "location": "Plano",
+        "price": "10",
+        "amenities": "Shelves",
+        "description": "Keep your wine tasty!",
+        "rating": "4.5",
+        "thumbnail": "cellar2",
+        "id" : 10
+    },
+    {
+        "title": "Modern Wine Cellar",
+        "type": "Winecellar",
+        "location": "Frisco",
+        "price": "5",
+        "amenities": "Shelves",
+        "description": "A modern wine cellar that saves your expensive wine from getting staled.",
+        "rating": "4.9",
+        "thumbnail": "cellar",
+        "id" : 11
+    },
+    {
+        "title": "Bedroom with all you need",
+        "type": "Bedroom",
+        "location": "Dallas",
+        "price": "8",
+        "amenities": "A bed, A walking closet, A vanity",
+        "description": "A sweet bedroom.",
+        "rating": "4.8",
+        "thumbnail": "bedroom",
+        "id" : 12
+    },
+    {
+        "title": "Comfy Bedroom",
+        "type": "Bedroom",
+        "location": "Plano",
+        "price": "10",
+        "amenities": "A bed, A walking closet, A vanity",
+        "description": "A bedroom with comfortable mattress, you can always get a good night sleep here.",
+        "rating": "4.7",
+        "thumbnail": "bedroom2",
+        "id" : 13
+    },
+    {
+        "title": "Cute Kitchen",
+        "type": "Kitchen",
+        "location": "Frisco",
+        "price": "12",
+        "amenities": "A blender, An oven, An air fryer, A set of tableware, Two stoves",
+        "description": "Wonderful place to make desserts with friends",
+        "rating": "5.0",
+        "thumbnail": "kitchen",
+        "id" : 14
+    },
+    {
+        "title": "Modern Kitchen",
+        "type": "Kitchen",
+        "location": "Dallas",
+        "price": "10",
+        "amenities": "A microwave, A fridge, A blender, Five stoves",
+        "description": "A place to prepare homemade food.",
+        "rating": "5.0",
+        "thumbnail": "kitchen2",
+        "id" : 15
+    },
+    {
+        "title": "Quiet Study",
+        "type": "Workspace",
+        "location": "Richardson",
+        "price": "10",
+        "amenities": "A desk, A lamp, A stationary set, A monitor",
+        "description": "A quiet study room",
+        "rating": "5.0",
+        "thumbnail": "studyroom",
+        "id" : 16
+    },
+    {
+        "title": "Home Office",
+        "type": "Workspace",
+        "location": "Dallas",
+        "price": "10",
+        "amenities": "A desk, Three monitors, A keyboard",
+        "description": "A good workspace for family business.",
+        "rating": "4.6",
+        "thumbnail": "study-room",
+        "id" : 17
+    },
+    {
+        "title": "Living Room",
+        "type": "Livingroom",
+        "location": "Richardson",
+        "price": "14",
+        "amenities": "A sofa bed, A 65-inch television, A coffee table",
+        "description": "Relaxing living room.",
+        "rating": "5.0",
+        "thumbnail": "livingroom1",
+        "id" : 18
+    },
+    {
+        "title": "Living Room",
+        "type": "Livingroom",
+        "location": "Plano",
+        "price": "9",
+        "amenities": "A huge sofa, Four stools, 85-inch television.",
+        "description": "Wonderful place for watching football games!",
+        "rating": "5.0",
+        "thumbnail": "livingroom2",
+        "id" : 19
+    },
+    {
+        "title": "Dinning Room",
+        "type": "Dinningroom",
+        "location": "Dallas",
+        "price": "15",
+        "amenities": "A dinning table for 20, A tableware set",
+        "description": "Beautiful dinning room perfect for family reunion dinner.",
+        "rating": "5.0",
+        "thumbnail": "diningroom",
+        "id" : 20
+    },
+    {
+        "title": "Basement",
+        "type": "Basement",
+        "location": "Frisco",
+        "price": "5",
+        "amenities": "100 sqrt, Two shelves, A frreezer",
+        "description": "A great place for storage.",
+        "rating": "5.0",
+        "thumbnail": "basement",
+        "id" : 21
+    }
+]
